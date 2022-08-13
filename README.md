@@ -28,10 +28,13 @@ In the 2nd project Deliverable, the bias of Vine Reviews was analyzed to determi
 The reviews were then separated by paid and unpaid reviews and put into the DataFrame below:
 ![ratings_df](https://user-images.githubusercontent.com/103215123/184515327-f1e3d28b-fc45-41a9-a83d-3d9a07ae8291.png)
 
-- There are 170 ne reviews and 37,840 non-Vine reviews of pet products
-- There are 
+- There are 170 Vine reviews and 37,840 non-Vine reviews of pet products
+- There are 65 Paid Vine 5-Star ratings and 20,612 un-paid 5-Star ratings
+- 38% of Vine reviews are 5-Stars 
+- 54% of non-Vine reviews are 5-Stars 
 
-- 
+## Summary
+Given that a smaller percentage of 5-Star reviews came from Vine reviews, it does not appear that there is a bias toward 5-Star reviews in the Vine program.  It may be worth measuring other ratings tiers, such as 3 and 4 Star reviews and analyzing 0, 1 and 2-Star reviews to see if there is any skew or bias in the paid Vine program reviews vs unpaid reviews. 
 
 
 
